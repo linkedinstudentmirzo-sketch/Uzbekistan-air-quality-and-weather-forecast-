@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+joblib
+altair
+requests
+scikit-learn==1.6.1
+requests-cache
+retry-requests
+openmeteo-requests
